@@ -1,0 +1,17 @@
+current: 348,5 sent/s avg: 348,5 sent/s total: 361 sent
+current: 827,3 sent/s avg: 580,3 sent/s total: 1167 sent
+current: 1390,4 sent/s avg: 849,2 sent/s total: 2557 sent
+current: 2411,4 sent/s avg: 1238,3 sent/s total: 4967 sent
+
+
+Average: 1426,2 sent/s 
+Total: 6248 sent
+Runtime: 4.381s
+
+Evaluated 6247 samples with 3137 entities; found: 3137 entities; correct: 3137.
+       TOTAL: precision:  100,00%;  recall:  100,00%; F1:  100,00%.
+      person: precision:  100,00%;  recall:  100,00%; F1:  100,00%. [target: 1121; tp: 1121; fp:   0]
+    location: precision:  100,00%;  recall:  100,00%; F1:  100,00%. [target: 1394; tp: 1394; fp:   0]
+       thing: precision:  100,00%;  recall:  100,00%; F1:  100,00%. [target: 622; tp: 622; fp:   0]
+
+Execution time: 5,384 seconds

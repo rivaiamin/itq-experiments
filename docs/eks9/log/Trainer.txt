@@ -1,0 +1,30 @@
+Indexing events with TwoPass using cutoff of 1
+
+	Computing event counts...  done. 209685 events
+	Indexing...  done.
+Collecting events... Done indexing in 6,83 s.
+Incorporating indexed data for training...  
+done.
+	Number of Event Tokens: 209685
+	    Number of Outcomes: 6
+	  Number of Predicates: 204814
+Computing model parameters...
+Performing 70 iterations.
+  1:  . (208991/209685) 0.9966902735054963
+  2:  . (209483/209685) 0.9990366502134154
+  3:  . (209576/209685) 0.9994801726399123
+  4:  . (209622/209685) 0.999699549323986
+  5:  . (209624/209685) 0.9997090874406849
+  6:  . (209649/209685) 0.9998283138994205
+  7:  . (209657/209685) 0.999866466366216
+  8:  . (209662/209685) 0.9998903116579632
+  9:  . (209676/209685) 0.9999570784748552
+ 10:  . (209675/209685) 0.9999523094165057
+Stopping: change in training set accuracy less than 1.0E-5
+Stats: (209685/209685) 1.0
+...done.
+Compressed 204814 parameters to 6635
+31 outcome patterns
+Finding types in the test sentence..
+person : Muhammad 	 [probability=0.39037301309560785]
+

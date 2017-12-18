@@ -1,0 +1,39 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":0,
+    "params":{
+      "q":"person:muhammad",
+      "indent":"on",
+      "wt":"json"}},
+  "response":{"numFound":4,"start":0,"docs":[
+      {
+        "sura":2,
+        "aya":23,
+        "text":["Dan jika kamu (tetap) dalam keraguan tentang Al Quran yang Kami wahyukan kepada hamba Kami (Muhammad), buatlah satu surat (saja) yang semisal Al Quran itu dan ajaklah penolong-penolongmu selain Allah, jika kamu orang-orang yang benar."],
+        "person":["muhammad"],
+        "id":"9cb12e24-2216-48e6-af39-ddac11d17737",
+        "_version_":1579761138004918276},
+      {
+        "sura":2,
+        "aya":104,
+        "text":["Hai orang-orang yang beriman, janganlah kamu katakan (kepada Muhammad): \"Raa'ina\", tetapi katakanlah: \"Unzhurna\", dan \"dengarlah\". Dan bagi orang-orang yang kafir siksaan yang pedih."],
+        "person":["muhammad"],
+        "id":"7a78b347-f424-4c60-b987-7e844163d288",
+        "_version_":1579761138023792644},
+      {
+        "sura":2,
+        "aya":119,
+        "text":["Sesungguhnya Kami telah mengutusmu (Muhammad) dengan kebenaran; sebagai pembawa berita gembira dan pemberi peringatan, dan kamu tidak akan diminta (pertanggungan jawab) tentang penghuni-penghuni neraka."],
+        "person":["muhammad"],
+        "place":["neraka"],
+        "id":"bcc190bc-1d89-4ca4-aa75-c6604ffa2379",
+        "_version_":1579761138026938368},
+      {
+        "sura":2,
+        "aya":143,
+        "text":["Dan demikian (pula) Kami telah menjadikan kamu (umat Islam), umat yang adil dan pilihan agar kamu menjadi saksi atas (perbuatan) manusia dan agar Rasul (Muhammad) menjadi saksi atas (perbuatan) kamu. Dan Kami tidak menetapkan kiblat yang menjadi kiblatmu (sekarang) melainkan agar Kami mengetahui (supaya nyata) siapa yang mengikuti Rasul dan siapa yang membelot. Dan sungguh (pemindahan kiblat) itu terasa amat berat, kecuali bagi orang-orang yang telah diberi petunjuk oleh Allah; dan Allah tidak akan menyia-nyiakan imanmu. Sesungguhnya Allah Maha Pengasih lagi Maha Penyayang kepada manusia."],
+        "person":["muhammad"],
+        "id":"6b9a7a8d-fe0a-4ee3-a6c2-cfe7449e7a33",
+        "_version_":1579761138030084098}]
+  }}

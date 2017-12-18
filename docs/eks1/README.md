@@ -1,0 +1,1 @@
+Eksperimen dengan menggunakan keseluruhan surat 2 sebagai "sentences"
