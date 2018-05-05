@@ -31,9 +31,10 @@ public class Trainer {
     public static void main(String[] args) {
 
         // reading training data
+        String datatrain = args[0];
         InputStreamFactory in = null;
         try {
-            in = new MarkableFileInputStreamFactory(new File("itq-train-ner.txt"));
+            in = new MarkableFileInputStreamFactory(new File(datatrain));
         } catch (FileNotFoundException e2) {
             e2.printStackTrace();
         }
@@ -62,8 +63,9 @@ public class Trainer {
         }
 
         // saving the model to "ner-custom-model.bin" file
+        String modelfile = args[1];
         try {
-            File output = new File("models/itq-ner-all.bin");
+            File output = new File(modelfile);
             FileOutputStream outputStream = new FileOutputStream(output);
             nameFinderModel.serialize(outputStream);
         } catch (FileNotFoundException e) {

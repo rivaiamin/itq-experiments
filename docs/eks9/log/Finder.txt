@@ -3111,5 +3111,7 @@ location: 1453
 person: 1035
 thing: 622
 
+Total Sentences: 5487
+Total Token: 211547
 Total Entities : 3108
 
